@@ -27,6 +27,6 @@
     "cricapi",
     "express"
   ],
-  "author": "Rakesh"
+  "author": "Rakesh",
   "license": "MIT"
 }
